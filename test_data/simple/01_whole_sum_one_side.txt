@@ -1,0 +1,7 @@
+name=01_whole_sum_one_side
+d=1
+expected=8
+songs=
+3
+1
+4

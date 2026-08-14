@@ -1,0 +1,13 @@
+name=02_tight_boundary
+d=3
+expected=12
+songs=
+4
+4
+4
+4
+4
+4
+4
+4
+4

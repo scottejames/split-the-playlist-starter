@@ -1,0 +1,6 @@
+name=06_two_equal_songs
+d=2
+expected=5
+songs=
+5
+5

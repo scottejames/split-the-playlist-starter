@@ -1,0 +1,13 @@
+name=05_uniform_songs
+d=4
+expected=12
+songs=
+4
+4
+4
+4
+4
+4
+4
+4
+4

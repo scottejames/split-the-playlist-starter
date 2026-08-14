@@ -1,0 +1,5 @@
+name=05_single_song
+d=1
+expected=7
+songs=
+7

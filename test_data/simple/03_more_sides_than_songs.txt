@@ -1,0 +1,6 @@
+name=03_more_sides_than_songs
+d=5
+expected=-1
+songs=
+3
+1

@@ -1,0 +1,11 @@
+name=08_spike_in_the_middle
+d=3
+expected=100
+songs=
+1
+1
+1
+100
+1
+1
+1

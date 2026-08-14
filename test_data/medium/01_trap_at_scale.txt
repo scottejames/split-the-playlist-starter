@@ -1,0 +1,11 @@
+name=01_trap_at_scale
+d=3
+expected=10
+songs=
+10
+2
+3
+4
+5
+2
+1

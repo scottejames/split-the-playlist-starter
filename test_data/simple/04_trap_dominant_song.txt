@@ -1,0 +1,8 @@
+name=04_trap_dominant_song
+d=2
+expected=9
+songs=
+9
+1
+1
+1

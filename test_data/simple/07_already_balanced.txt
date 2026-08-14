@@ -1,0 +1,8 @@
+name=07_already_balanced
+d=2
+expected=4
+songs=
+2
+2
+2
+2
