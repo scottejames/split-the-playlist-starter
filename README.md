@@ -53,6 +53,9 @@ of length 9 and 3.
 
 - Answer → `9`
 
+Want a slower, more thorough walk through this and one more example,
+staged step by step? See [EXAMPLE.md](EXAMPLE.md).
+
 ### Constraints
 
 Nothing sneaky here — just the numbers to design around:
